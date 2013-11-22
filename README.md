@@ -1,4 +1,4 @@
 bbLean
 ======
 
-A copy of bbLean that can be easily compiled with msvc
+A copy of bbLean that can be (more) easily compiled with msvc
