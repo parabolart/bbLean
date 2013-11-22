@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bbIconBox", "bbIconBox.vcxproj", "{A938CF52-A5FF-4B54-BBC9-60E1CAACF1AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Default|Mixed Platforms = Default|Mixed Platforms
+		Default|Win32 = Default|Win32
+		Default|x64 = Default|x64
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A938CF52-A5FF-4B54-BBC9-60E1CAACF1AA}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{A938CF52-A5FF-4B54-BBC9-60E1CAACF1AA}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{A938CF52-A5FF-4B54-BBC9-60E1CAACF1AA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A938CF52-A5FF-4B54-BBC9-60E1CAACF1AA}.Debug|Win32.Build.0 = Debug|Win32
+		{A938CF52-A5FF-4B54-BBC9-60E1CAACF1AA}.Debug|x64.ActiveCfg = Debug|Win32
+		{A938CF52-A5FF-4B54-BBC9-60E1CAACF1AA}.Default|Mixed Platforms.ActiveCfg = Debug|Win32
+		{A938CF52-A5FF-4B54-BBC9-60E1CAACF1AA}.Default|Mixed Platforms.Build.0 = Debug|Win32
+		{A938CF52-A5FF-4B54-BBC9-60E1CAACF1AA}.Default|Win32.ActiveCfg = Debug|Win32
+		{A938CF52-A5FF-4B54-BBC9-60E1CAACF1AA}.Default|Win32.Build.0 = Debug|Win32
+		{A938CF52-A5FF-4B54-BBC9-60E1CAACF1AA}.Default|x64.ActiveCfg = Debug|Win32
+		{A938CF52-A5FF-4B54-BBC9-60E1CAACF1AA}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{A938CF52-A5FF-4B54-BBC9-60E1CAACF1AA}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{A938CF52-A5FF-4B54-BBC9-60E1CAACF1AA}.Release|Win32.ActiveCfg = Release|Win32
+		{A938CF52-A5FF-4B54-BBC9-60E1CAACF1AA}.Release|Win32.Build.0 = Release|Win32
+		{A938CF52-A5FF-4B54-BBC9-60E1CAACF1AA}.Release|x64.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
