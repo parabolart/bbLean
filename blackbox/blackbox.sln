@@ -24,14 +24,23 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bbIconBox", "..\plugins\bbIconBox\bbIconBox.vcxproj", "{A938CF52-A5FF-4B54-BBC9-60E1CAACF1AA}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bbKeys", "..\plugins\bbKeys\bbKeys.vcxproj", "{52EEE3A5-E46E-40A4-9F1A-4E5A7E3FE847}"
+	ProjectSection(ProjectDependencies) = postProject
+		{08EF631A-00AF-478B-96BD-70E1DCB2743E} = {08EF631A-00AF-478B-96BD-70E1DCB2743E}
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bbLeanBar", "..\plugins\bbLeanBar\bbLeanBar.vcxproj", "{489FB570-5645-44F3-B297-4B78446338C4}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bbLeanSkin", "..\plugins\bbLeanSkin\bbLeanSkin.vcxproj", "{839A1F52-765D-445C-AF5A-69A2A4020D46}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bbSlit", "..\plugins\bbSlit\bbSlit.vcxproj", "{1DD67984-B8AF-4A3D-9857-C298452AC722}"
+	ProjectSection(ProjectDependencies) = postProject
+		{08EF631A-00AF-478B-96BD-70E1DCB2743E} = {08EF631A-00AF-478B-96BD-70E1DCB2743E}
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bbWorkspaceWheel", "..\plugins\bbWorkspaceWheel\bbWorkspaceWheel.vcxproj", "{3D5CC7A3-3B1C-4D1B-B59F-F96BD8AAF3B8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{08EF631A-00AF-478B-96BD-70E1DCB2743E} = {08EF631A-00AF-478B-96BD-70E1DCB2743E}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -194,7 +203,6 @@ Global
 		{489FB570-5645-44F3-B297-4B78446338C4}.Release|Win32.ActiveCfg = Release|Win32
 		{489FB570-5645-44F3-B297-4B78446338C4}.Release|Win32.Build.0 = Release|Win32
 		{489FB570-5645-44F3-B297-4B78446338C4}.Release|x64.ActiveCfg = Release|x64
-		{489FB570-5645-44F3-B297-4B78446338C4}.Release|x64.Build.0 = Release|x64
 		{839A1F52-765D-445C-AF5A-69A2A4020D46}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
 		{839A1F52-765D-445C-AF5A-69A2A4020D46}.Debug|Mixed Platforms.Build.0 = Debug|Win32
 		{839A1F52-765D-445C-AF5A-69A2A4020D46}.Debug|Win32.ActiveCfg = Debug|Win32
